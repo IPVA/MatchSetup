@@ -1,0 +1,57 @@
+h1 {
+    text-align: center;
+}
+
+
+html {
+    font-family: sans-serif;
+}
+
+#banner {
+    object-fit: cover;
+    width: 100%;
+    margin: 0px;
+}
+
+.details {
+    color: indigo;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.box-one {
+    text-align: center;
+    background: blue;
+    height: 80px;
+    width: 150px;
+    padding: 50px;
+    border: 20px solid #07a070;
+    margin: 60px 500px 100px 500px;
+}
+
+#navbar-top {
+    background: lightslategray;
+    padding: 20px;
+}
+
+#logo {
+
+    height: 130px;
+    width: 130px;
+
+}
+
+#about-me {
+    display: flex;
+}
+
+#favorite-artist {
+    width: 50%;
+}
+
+#favorite-artist-image-example {
+    width: 50%;
+}
