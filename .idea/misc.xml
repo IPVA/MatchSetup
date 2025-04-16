@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/website-test/pom.xml" />
         <option value="$PROJECT_DIR$/SetupMatch/pom.xml" />
+        <option value="$PROJECT_DIR$/MatchSetup/pom.xml" />
       </list>
     </option>
   </component>

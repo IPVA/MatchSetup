@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SetupMatch.iml" filepath="$PROJECT_DIR$/.idea/SetupMatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MatchSetup.iml" filepath="$PROJECT_DIR$/.idea/MatchSetup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MatchSetup/SetupMatch.iml" filepath="$PROJECT_DIR$/MatchSetup/SetupMatch.iml" />
     </modules>
   </component>
 </project>

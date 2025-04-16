@@ -1,4 +1,4 @@
-package com.sakundo.SetupMatch;
+package com.sakundo.MatchSetup;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
