@@ -1,4 +1,4 @@
-package com.sakundo.website_test;
+package com.sakundo.SetupMatch;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sakundo</groupId>
-	<artifactId>website-test</artifactId>
+	<artifactId>SetupMatch</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>website-test</name>
+	<name>SetupMatch</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
